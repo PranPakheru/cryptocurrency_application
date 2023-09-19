@@ -1,0 +1,35 @@
+
+.upperMenu{
+    display: flex;
+
+}
+
+.searchBar{
+    margin: 10px;
+    height: 30px;
+    width: 400px;
+    border-radius: 10px;
+    border-style: none;
+    padding: 5px;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.paginationDiv{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex !important;
+    justify-content: center !important;
+    background-color: #e5e5e5;
+    width: max-content;
+    margin-left: 38%;
+    border-radius: 10px;
+    position: sticky;
+    bottom: 0;
+    background-color: rgb(150, 150, 231);
+    color:beige !important;
+}
