@@ -1,8 +1,7 @@
-# React + Vite
+This is a Cryptocurrency Searching Application.
+This app has several features:-
+    1) This app will give 250 cryptocurrencies per page.
+    2) Live search for your favourite currency.
+    3) Simple design and ui for easy understanding.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Enjoy using the app.
